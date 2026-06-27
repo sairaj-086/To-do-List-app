@@ -72,7 +72,7 @@ todo-list/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/todo-list.git
+https://github.com/sairaj-086/To-do-List-app
 ```
 
 2. Open the project folder.
